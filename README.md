@@ -50,10 +50,10 @@ Persistent data storage using SQLite
 TableDescriptionteamsStores all team namesplayersStores player name, role, runs, wickets, matchesmatchesStores match results, scores, Man of the Matchpoints_tableStores played, won, lost, points per team
 
 🚀 How to Run
-1. Clone the repository
-bashgit clone 
+1. Clone the repository 
+git clone https://github.com/Madhu-T18/Cricket-Console-Project
 cd Cricket-Console
-2. Run the project
+3. Run the project
 bashpython main.py
 
 No external libraries needed — only built-in sqlite3, random, abc
